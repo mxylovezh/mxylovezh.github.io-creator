@@ -4,10 +4,6 @@ date: 2019-08-30T09:25:46+08:00
 draft: false
 ---
 
-
-
-
-
 ## 标题
 
 
@@ -81,8 +77,6 @@ console.log('我是代码段');
 
 这个和链接的用法一样，只不过前面多加一个感叹号
 
-例如
-![Pink Floyd](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1567149599724&di=de99a346fcf0f4cddd7a640fb77c307b&imgtype=0&src=http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FjwPPrfORf3hgQEZArh90SFJiaB7ebNFrQmLicGxYHWg4YEcs6OtI7lPdeE3oiaNuAvibrsnVEFtEAoIDeWNMHNibkjg%2F0%3Fwx_fmt%3Djpeg)
 
 ## 斜体和粗体
 
